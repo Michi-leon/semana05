@@ -1,6 +1,13 @@
 # Aprendiendo Markdown
 El dia de hoy vamos a *aprender* a usar el Markdown aqui en TECSUP.
 
+## Contenido
+- [Descripción](#vinculos)
+- [Códigos](#codigos)
+- [Imágenes](#colocando-imagenes)
+- [Tablas](#creando-tablas)
+- [Diagramas](#aprendiendo-mermaid)
+
 ## Subtitulo 01
 Esto es un simple subtitulo en el cual coloco un **texto**.
 
@@ -15,7 +22,7 @@ Aprendiendo a crear subtitutlos en ~~Markdown en TECSUP con los chicos de teoria
 ## Vinculos
 [Visita TECSUP](https://www.tecsup.edu.pe)
 
-## para codigos
+## Codigos
 ```html
     <h1>Esto es un codigo</h1>
 ```
@@ -59,9 +66,10 @@ Aprendiendo a crear subtitutlos en ~~Markdown en TECSUP con los chicos de teoria
 | Virtual BOX  | 2006 |
 
 ## Aprendiendo mermaid
-` ` `mermaid
+```mermaid
 flowchart TD
 A[Usuario] --> B[Iniciar Sesión]
 B --> C(Colocar Credenciales)
 C --> |Si| D[Acceder al Sistema]
 C --> |No| E[No ingresa]
+```

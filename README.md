@@ -43,6 +43,6 @@ Aprendiendo a crear subtitutlos en ~~Markdown en TECSUP con los chicos de teoria
 ![Java](https://img.shields.io/badge/Java-1.0-red)
 
 ## Funciones
-- [X] Registro de Alumno
-- [X] Matricula Procesada
+- [x] Registro de Alumno
+- [x] Matricula Procesada
 - [ ] Reporte Generado

@@ -45,4 +45,4 @@ Aprendiendo a crear subtitutlos en ~~Markdown en TECSUP con los chicos de teoria
 ## Funciones
 - [X] Registro de Alumno
 - [X] Matricula Procesada
-- [] Reporte Generado
+- [ ] Reporte Generado
